@@ -22,7 +22,7 @@ luarocks install dp
 luarocks install unsup
 ```
 
-##Training
+## Training
 Create pre-processing folder:
 ```lua
 cd BinaryNet
